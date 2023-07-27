@@ -35,13 +35,13 @@ add_instance_method, self: None, id(self): 140711530371200
 8
 add_instance_method, self: 1, id(self): 140711530600208
 8
-add_instance_method, self: <Class.class_static_method.CustomClass object at 0x0000014F587DC970>, id(self): 1440298682736
+add_instance_method, self: <class_test.class_static_method.CustomClass object at 0x0000014F587DC970>, id(self): 1440298682736
 8
-add_instance_method, self: <Class.class_static_method.CustomClass object at 0x0000014F587DC970>, id(self): 1440298682736
+add_instance_method, self: <class_test.class_static_method.CustomClass object at 0x0000014F587DC970>, id(self): 1440298682736
 8
-add_class_method, cls: <class 'Class.class_static_method.CustomClass'>, id(cls): 1440300078848
+add_class_method, cls: <class 'class_test.class_static_method.CustomClass'>, id(cls): 1440300078848
 8
-add_class_method, cls: <class 'Class.class_static_method.CustomClass'>, id(cls): 1440300078848
+add_class_method, cls: <class 'class_test.class_static_method.CustomClass'>, id(cls): 1440300078848
 8
 add_static_method
 8
